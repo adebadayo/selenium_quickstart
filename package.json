@@ -1,0 +1,21 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quickstart.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^3.4.0",
+    "xunit-file": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
