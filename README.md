@@ -3,23 +3,27 @@
 ## Refer
 http://www.kaizenprogrammer.com/entry/2016/11/23/143938
 
+## Precondition
+* PC : mac
+* Browser : google chrome
+
 ## Procedure
 
-### Add chromedriver_mac64
+### Add chromedriver
 
 ```
 wget https://chromedriver.storage.googleapis.com/2.25/chromedriver_mac64.zip
 unzip chromedriver_mac64.zip
 ```
 
-### install node package
+### Install node package
 
 ```
 npm install
 ```
 
 
-### execute mocha
+### Execute mocha
 
 ```
 mocha quickstart.js
