@@ -26,5 +26,5 @@ npm install
 ### Execute mocha
 
 ```
-mocha quickstart.js
+node quickstart.js
 ```
