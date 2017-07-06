@@ -13,6 +13,14 @@ http://qiita.com/adebadayo/items/22134c00123663bc70b4
 
 ## Procedure
 
+
+### git clone
+
+```
+git clone https://github.com/adebadayo/selenium_quickstart.git
+cd selenium_quickstart
+```
+
 ### Add chromedriver
 
 ```
@@ -27,7 +35,7 @@ npm install
 ```
 
 
-### Execute mocha
+### Execute node
 
 ```
 node quickstart.js
