@@ -3,6 +3,10 @@
 ## Refer
 http://www.kaizenprogrammer.com/entry/2016/11/23/143938
 
+I also wrote an article to Qiita.
+
+http://qiita.com/adebadayo/items/22134c00123663bc70b4
+
 ## Precondition
 * PC : mac
 * Browser : google chrome
